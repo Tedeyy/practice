@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Flashlight",
+        "description":"Has 20 lumens and light for 3 hours.",
+        "price": 300,
+        "dateAdded": "January 1, 2024"
+    },
+    {
+        "name":"Motorcycle",
+        "description":"Gas-efficient and quick.",
+        "price": 129000,
+        "dateAdded": "January 3, 2024"
+    },
+    {
+        "name":"PC Set",
+        "description":"Budget mid-range pc set.",
+        "price": 30000,
+        "dateAdded": "January 5, 2024"
+    },
+    {
+        "name":"Jump Rope",
+        "description":"Very durable and elastic.",
+        "price": 120,
+        "dateAdded": "January 19, 2024"
+    }
+    
+]
